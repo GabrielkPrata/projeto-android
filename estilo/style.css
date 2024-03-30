@@ -50,7 +50,7 @@ header{
     padding-top: 30px;
 }
 
-header > h1 {
+.cabecalho {
     color: white;
     font-family: var(--font-destaque);
     margin-bottom: 20px;
